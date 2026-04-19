@@ -20,4 +20,4 @@ Script :
 mensagem = input("Informe a mensagem: ")
 
 for i in range(10):
-    print(mensagem)
+    print(f"{i+1:2} - {mensagem}")
