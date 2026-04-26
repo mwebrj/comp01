@@ -16,19 +16,17 @@ Script :
 -	93. Crie um programa que percorre um arquivo-texto linha a linha e caso encontre 
 uma certa String fornecida pelo usuário copie a linha para outro arquivo
 """
-
 def copiar_linha_com_string(arquivo_origem, arquivo_destino, string_procurada):
     with open(arquivo_origem, 'r') as origem, open(arquivo_destino, 'w') as destino:
         for linha in origem:
             if string_procurada in linha:
                 destino.write(linha)
-
-# Exemplo de uso
-arquivo_origem = "texto.txt"  # Substitua pelo nome do seu arquivo de origem
-
-arquivo_destino = "linhas_copiadas.txt"  # Nome do arquivo de destino
-string_procurada = input("Digite a string que deseja procurar: ")
+                
+arquivo_origem = "texto.txt"
+arquivo_destino = "linhas_copiadas.txt"
+string_procurada = input("Informe a string procurada: ")
 
 copiar_linha_com_string(arquivo_origem, arquivo_destino, string_procurada)
 
-print(f"Processo concluído. As linhas contendo a string foram copiadas para {arquivo_destino}")
+with open(arquivo_destino, "r") as f:
+    print(f.read())
