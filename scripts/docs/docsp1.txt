@@ -1,0 +1,29 @@
+-------------------------------
+Scripts
+-------------------------------
+
+    1. Criar um programa que imprime Hello World
+    2. Criar um programa que imprime o seu nome 10 vezes
+    3. Criar um programa que recebe uma String do usuário e imprime 10 vezes
+    4. Criar um programa que recebe uma String e um número e imprime a String lida a quantidade de vezes indicada pelo número lido
+    5. Criar um programa para ler um número e imprimir o seu quadrado
+    6. Criar um programa para ler dois números e imprimir o maior
+    7. Criar um programa para ler dois números e imprimir o menor
+    8. Criar um programa para ler dois números e imprimir a soma
+    9. Criar um programa para imprimir se um número é par ou ímpar
+    10. Criar um programa para ler dois números e uma String com um operador e imprimir o resultado da operação
+    11. Criar um programa para ler dois números e imprimir o primeiro elevado ao segundo
+    12. Criar um programa para ler três números e calcular uma regra de 3
+    13. Criar um programa para ler um número que representa o valor de uma conta de restaurante e a quantidade de pessoas, imprimir o valor por pessoa
+    14. Criar um programa para ler dois números que representam os valores dos catetos de um triângulo retângulo e imprimir o valor da hipotenusa (a2 = b2 + c2)
+    15. Criar um programa para ler dois números e dizer quanto o segundo representa em percentual do primeiro.
+    16. Criar um programa para ler dois números complexos e imprimir a soma
+    17. Criar um programa para ler dois números complexos e imprimir o produto
+    18. Criar um programa para ler dois números e imprimir a média
+    19. Criar um programa para ler dois números que representam os lados de um retângulo, imprima o perímetro e a área
+    20. Criar um programa para ler o raio de um círculo e imprimir o perímetro e a área
+    21. Criar um programa para ler dois números que representam a base a altura de um triângulo, imprimir a área
+    22. Criar um programa para ler três números e imprimir se o primeiro é maior ou menor que a soma dos outros dois
+    23. Criar um programa para ler dois números e se o segundo for diferente de zero imprimir a divisão, se for igual a zero imprimir uma mensagem indicando erro.
+    24. Criar um programa para ler três números que representam os coeficientes de uma equação do segundo grau, imprima as raízes dessa equação
+    25. Criar um programa para ler um número que representa um ano e indicar se é um ano bissexto. (Se o ano for divisível por 400 ou se for divisível por 4 e não por 100)
