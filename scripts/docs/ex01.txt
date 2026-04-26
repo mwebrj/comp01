@@ -1,10 +1,4 @@
-1. Criar um programa que imprime Hello World
-2. Criar um programa que imprime o seu nome 10 vezes
-3. Criar um programa que recebe uma String do usuário e imprime 10 vezes
-4. Criar um programa que recebe uma String e um número e imprime a String lida a quantidade de vezes indicada pelo número lido
-5. Criar um programa para ler um número e imprimir o seu quadrado
-6. Criar um programa para ler dois números e imprimir o maior
-7. Criar um programa para ler dois números e imprimir o menor
-8. Criar um programa para ler dois números e imprimir a soma
-9. Criar um programa para imprimir se um número é par ou ímpar
-10. Criar um programa para ler dois números e uma String com um operador e imprimir o resultado da operação
+-------------------------------
+Scripts
+-------------------------------
+
