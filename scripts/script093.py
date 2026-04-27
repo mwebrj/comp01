@@ -22,8 +22,8 @@ def copiar_linha_com_string(arquivo_origem, arquivo_destino, string_procurada):
             if string_procurada in linha:
                 destino.write(linha)
                 
-arquivo_origem = "script/texto.txt"
-arquivo_destino = "script/linhas_copiadas.txt"
+arquivo_origem = "texto1.txt"
+arquivo_destino = "texto2.txt"
 string_procurada = input("Informe a string procurada: ")
 
 copiar_linha_com_string(arquivo_origem, arquivo_destino, string_procurada)
