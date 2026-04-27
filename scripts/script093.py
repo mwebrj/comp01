@@ -22,7 +22,7 @@ def copiar_linha_com_string(arquivo_origem, arquivo_destino, string_procurada):
             if string_procurada in linha:
                 destino.write(linha)
                 
-arquivo_origem = "texto1.txt"
+arquivo_origem = "/home/pytisk/Apps/computacao/comp01-1/scripts/texto1.txt"
 arquivo_destino = "texto2.txt"
 string_procurada = input("Informe a string procurada: ")
 
