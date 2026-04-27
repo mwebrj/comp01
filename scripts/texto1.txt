@@ -1,12 +1,108 @@
-1. Criar um programa que imprime Hello World
-2. Criar um programa que imprime o seu nome 10 vezes
-3. Criar um programa que recebe uma String do usuário e imprime 10 vezes
-4. Criar um programa que recebe uma String e um número e imprime a String lida a quantidade de vezes indicada pelo número lido
-5. Criar um programa para ler um número e imprimir o seu quadrado
-6. Criar um programa para ler dois números e imprimir o maior
-7. Criar um programa para ler dois números e imprimir o menor
-8. Criar um programa para ler dois números e imprimir a soma
-9. Criar um programa para imprimir se um número é par ou ímpar
-10. Criar um programa para ler dois números e uma String com um operador e imprimir o resultado da operação
-11. Criar um programa para ler dois números e imprimir o primeiro elevado ao segundo
-12. Criar um programa para ler três números e calcular uma regra de 3
+    1. Criar um programa que imprime Hello World
+    2. Criar um programa que imprime o seu nome 10 vezes
+    3. Criar um programa que recebe uma String do usuário e imprime 10 vezes
+    4. Criar um programa que recebe uma String e um número e imprime a String lida a quantidade de vezes indicada pelo número lido
+    5. Criar um programa para ler um número e imprimir o seu quadrado
+    6. Criar um programa para ler dois números e imprimir o maior
+    7. Criar um programa para ler dois números e imprimir o menor
+    8. Criar um programa para ler dois números e imprimir a soma
+    9. Criar um programa para imprimir se um número é par ou ímpar
+    10. Criar um programa para ler dois números e uma String com um operador e imprimir o resultado da operação
+    11. Criar um programa para ler dois números e imprimir o primeiro elevado ao segundo
+    12. Criar um programa para ler três números e calcular uma regra de 3
+    13. Criar um programa para ler um número que representa o valor de uma conta de restaurante e a quantidade de pessoas, imprimir o valor por pessoa
+    14. Criar um programa para ler dois números que representam os valores dos catetos de um triângulo retângulo e imprimir o valor da hipotenusa (a2 = b2 + c2)
+    15. Criar um programa para ler dois números e dizer quanto o segundo representa em percentual do primeiro.
+    16. Criar um programa para ler dois números complexos e imprimir a soma
+    17. Criar um programa para ler dois números complexos e imprimir o produto
+    18. Criar um programa para ler dois números e imprimir a média
+    19. Criar um programa para ler dois números que representam os lados de um retângulo, imprima o perímetro e a área
+    20. Criar um programa para ler o raio de um círculo e imprimir o perímetro e a área
+    21. Criar um programa para ler dois números que representam a base a altura de um triângulo, imprimir a área
+    22. Criar um programa para ler três números e imprimir se o primeiro é maior ou menor que a soma dos outros dois
+    23. Criar um programa para ler dois números e se o segundo for diferente de zero imprimir a divisão, se for igual a zero imprimir uma mensagem indicando erro.
+    24. Criar um programa para ler três números que representam os coeficientes de uma equação do segundo grau, imprima as raízes dessa equação
+    25. Criar um programa para ler um número que representa um ano e indicar se é um ano bissexto. (Se o ano for divisível por 400 ou se for divisível por 4 e não por 100)
+    26. Criar um programa para ler dois números e imprimir o MDC e o MMC
+    27. Criar um programa para ler um número e imprimir a tabuada de 0 a 10 daquele número
+    28. Criar um programa para ler três números que representam os lados de um triângulo, imprimir se é equilátero, isósceles ou escaleno.
+    29. Criar um programa para ler dois números que representam a altura e o peso de uma pessoa, imprima o índice de massa corporal. IMC = peso / (altura * altura)
+    30. Criar um programa para ler um número float e imprimir a parte inteira e a parte fracionária
+    31. Criar um programa para ler dois números e imprimir o primeiro elevado ao segundo
+    32. Criar um programa para ler dois números que representam dois anos, imprimir quantos e quais são os anos bissextos entre os dois anos indicados       
+    33. Criar um programa para ler um número e imprimir quantos bits são necessários para representar o número lido
+    34. Criar um programa para imprimir a média aritmética de N números lidos
+    35. Criar um programa para imprimir o produto de N números lidos
+    36. Criar um programa para imprimir a soma de N números lidos
+    37. Criar um programa para imprimir os 100 primeiros números ímpares
+    38. Criar um programa para imprimir os 100 primeiros números pares em ordem decrescente
+    39. Criar um programa para imprimir a média aritmética dos números primos de 0 a 100
+    40. Criar um programa para imprimir a soma de todos os múltiplos de 7 que forem pares entre 0 e 1000
+    41. Criar um programa para imprimir o fatorial do número
+    42. Criar um programa para imprimir o sucessor e o anterior de um número lido
+    43. Criar um programa para imprimir se um número é primo ou não
+    44. Criar um programa para imprimir os 100 primeiros números primos
+    45. Criar um programa para imprimir a soma dos números primos de 0 a 100
+    46. Criar um programa para imprimir o número primo mais próximo
+    47. Criar um programa para ler um número e imprimir o maior número cujo quadrado é menor que o número lido
+    48. Criar um programa para ler N números e imprimir o maior
+    49. Criar um programa para ler N números e imprimir o menor
+    50. Criar um programa para ler 1 número e imprimir todos os números primos entre ele e 10 * o número
+    51. Programa que leia números inteiros até que o usuário digite 0 e calcule a média dos números
+    52. Programa que leia números inteiros até que o usuário digite 0 e calcule a soma dos pares, a média dos ímpares e liste todos os números primos lidos
+    53. Criar um programa que procure números “amigos”
+    54. Criar um programa que receba dois pares de números que representam dois pontos em uma reta e imprima os valores dos coeficientes da equação da reta (y = ax + b)
+    55. Criar um programa para ler dois números que representam os catetos de um triângulo retângulo. Calcule a hipotenusa e imprima o valor do seno, cosseno, tangente, cotangente, secante e cossecante dos dois ângulos formados pelos catetos.
+    56. Criar um programa para ler uma String que representa uma data de nascimento do usuário e imprimir a idade atual em anos, meses e dias.
+    57. Funções e Conversão de Medidas
+    58. Crie uma função (def) que receba um número float indicando uma temperatura em Celsius e imprima seu valor em Fahrenheit
+    59. Crie uma função (def) que receba um número float indicando uma temperatura em Celsius e imprima seu valor em Kelvin
+    60. Crie uma função (def) que receba um número float indicando uma temperatura em Fahrenheit e imprima seu valor em Kelvin
+    61. Crie uma função (def) que receba um número float indicando uma medida em polegadas e imprima seu valor em centímetros
+    62. Crie uma função (def) que receba um número float indicando uma medida em quilogramas e imprima seu valor em libras
+    63. Crie uma função (def) que converta de graus para radianos
+    64. Crie uma função (def) que converta de KgF para Newtons
+    65. Crie uma função (def) que converta de m3 para litros
+    66. Crie uma função (def) que converta de Km/h para Milhas/h
+    67. Crie uma função (def) que converta de Dólar para Real
+    68. Crie uma função (def) que converta de Coordenadas Cartesianas para Coordenadas Polares       
+    69. Criar um programa para imprimir a média aritmética de n números (usar lista)
+    70. Criar um programa para imprimir o produto de todos os números de uma lista
+    71. Criar um programa para imprimir o menor número de uma lista
+    72. Criar um programa para imprimir o maior número de uma lista
+    73. Criar um programa para imprimir os números da diagonal principal de uma matriz NxN
+    74. Criar um programa para imprimir os números da diagonal secundária de uma matriz NxN
+    75. Calcular a multiplicação de duas matrizes NxN
+    76. Ler um número que representa a ordem de uma matriz quadrada e crie um quadrado mágico, onde a soma das linhas, colunas e diagonais é constante e com o mesmo valor
+    77. Ler um número que representa a ordem de uma matriz quadrada, preencher essa matriz com números de 0 até N2 em forma espiral. Se a ordem lida for 3 por exemplo a matriz final deverá ser impressa:
+       0 1 2
+       7 8 3
+       6 5 4
+    78. Se a ordem lida for 4 a matriz final deverá ser:
+       0  1  2  3
+       11 12 13 4
+       10 15 14 5
+       9  8  7  6
+       
+    79. Criar um programa para imprimir a decomposição em fatores primos de um número dado
+    80. Criar um programa para imprimir a soma dos fatores primos de um número dado.
+    81. Crie um programa que receba do usuário um número indicando a quantidade de notas a processar, em seguida crie uma lista de float para armazenar as notas dos alunos, e, por fim, imprimir as notas em ordem crescente ordenando a lista utilizando a técnica bubble sort
+    82. Strings
+    83. Crie uma função que receba dois números, o primeiro indica a quantidade de zeros a esquerda deve ser impressa, e o segundo um número para ser formatado. Imprima o número com a quantidade de zeros a esquerda solicitada.
+    84. Crie uma função que receba várias Strings até que o usuário digite “fim” e imprima o tamanho da String, quantas e quais vogais contém, qual a posição da primeira vogal, quantas palavras formam a frase.
+    85. Crie uma função que receba uma frase digitada pelo usuário e imprima a frase com as palavras em ordem inversa 
+    86. Crie uma função que receba uma frase e imprima as palavras na ordem certa mas com as letras em ordem inversa
+    87. Ler um número inteiro e imprimir a soma dos dígitos do número.
+    88. Ler uma String e imprimir se a frase é um palíndromo
+    89. Crie um programa que receba uma frase e troque as consoantes para maiúsculas
+    90. Crie um programa que receba uma frase e troque: A → 4, E → 3, L → 1, T → 7, O → 0, G → 9, S → 5, Z → 2
+    91. Crie um programa que receba uma frase e um int e codifique cada letra somando o número recebido ao código. Deve ser possível decodificar uma frase (apresentar um menu).
+    92. Crie um programa que recebe dois nomes de arquivo e copia o conteúdo do primeiro (txt) para o segundo
+    93. Crie um programa que percorre um arquivo-texto linha a linha e caso encontre uma certa String fornecida pelo usuário copie a linha para outro arquivo
+    94. Crie uma função que receba números inteiros até que o usuário digite “fim” e imprima ao final todos os números digitados que são primos
+    95. Crie uma função que receba números inteiros até que o usuário digite “fim” e imprima o antecessor e o sucessor do número recebido e indique se o número lido é par ou ímpar
+    96. Crie um programa que leia números inteiros até que o usuário digite “fim” e calcule a média dos números lidos
+    97. Crie um programa que leia números float até que o usuário digite “fim” e converta o valor lido de centímetros para polegadas
+    98. Crie um programa que leia números inteiros até que o usuário digite “fim” e calcule a soma dos pares, a média dos ímpares e liste todos os números primos lidos
+    99. Crie um programa que leia números inteiros até que o usuário digite “fim” e imprima os fatores primos de cada número que for lido
+    100. Crie um programa que sorteie 50 números de 0 a 200, imprima a média dos números e indique o maior e o menor número sorteado
